@@ -7,8 +7,7 @@ public class main {
 	}
 }
 
-//学号：202102915
-//姓名：蔡宇杰
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
        int[] sum =new int[2];
